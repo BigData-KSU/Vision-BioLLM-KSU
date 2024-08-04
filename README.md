@@ -11,7 +11,7 @@
 - :chart_with_upwards_trend:Experimental results demonstrate the capabilities of VMed-Llama3 compared to state-of-the-art methods, confirming its  potential to advance the field of medical visual dialogue.
 -----
 ## News ##
-   [04-08-2024] Github is launched
+- [04-08-2024] Github is launched
 ---
 ## Model ##
 

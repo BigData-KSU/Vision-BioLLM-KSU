@@ -11,3 +11,12 @@
 - Another significant contribution of this work lies also in upgrading three datasets by elevating existing visual question datasets to dialogue context and incorporating informative summaries that succinctly capture the essence of each dialogue. Experimental results demonstrate the capabilities of VMed-Llama3 compared to state-of-the-art methods, confirming its  potential to advance the field of medical visual dialogue.
 -----
 ## Model
+
+To write a code use ...
+
+Example:
+...
+import torch
+import cv2
+...
+

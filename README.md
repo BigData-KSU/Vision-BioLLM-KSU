@@ -8,7 +8,8 @@
 - :gear: During the alignment phase, we optimize a multi-layer perceptron (MLP) to synchronize the outputs of the vision encoder with the inputs of the language model decoder, ensuring seamless integration between the visual and textual components.
 - :link: In the instruction-tuning phase, we further enhance the language understanding of medical datasets by fine-tuning it using the low-rank adaptation (LoRA) method with a instructional medical dataset.
 - :blue_book: Finally, to tailor VMed-Llama3 to specific medical dialogue tasks, we employ the LoRA method for additional fine-tuning.
-- :wrench: Another significant contribution of this work lies also in upgrading three datasets by elevating existing visual question datasets to dialogue context and incorporating informative summaries that succinctly capture the essence of each dialogue. Experimental results demonstrate the capabilities of VMed-Llama3 compared to state-of-the-art methods, confirming its  potential to advance the field of medical visual dialogue.
+- :wrench: Another significant contribution of this work lies also in upgrading three datasets by elevating existing visual question datasets to dialogue context and incorporating informative summaries that succinctly capture the essence of each dialogue.
+- :chart_with_upwards_trend:Experimental results demonstrate the capabilities of VMed-Llama3 compared to state-of-the-art methods, confirming its  potential to advance the field of medical visual dialogue.
 -----
 ## Model
 

@@ -12,11 +12,11 @@
 -----
 ## Model
 
-To write a code use ...
+To write a code use ```
 
 Example:
-...
+```
 import torch
 import cv2
-...
+```
 

@@ -1,4 +1,4 @@
-# VMed-Llama3
+# BioLVLM-KSU
 Large Vision Language Model for Visual Dialogue in Medical Imagery<br />
 <img src="https://github.com/BigData-KSU/VMed-Llama3/assets/126481523/5985c11e-b388-4fcf-9f4a-d506c2b4810c)" width="50%" height="50%" />
 ### Abstract

@@ -17,6 +17,7 @@
 
 ---
 ## Model ##
+![Picture2](https://github.com/user-attachments/assets/9b44b827-b94c-468d-9cea-844e7fbf8af3)
 
 To write a code use ```
 

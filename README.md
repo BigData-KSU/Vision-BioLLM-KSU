@@ -1,4 +1,4 @@
-# Vision-BioLLM@KSU: Large Vision Language Model for Visual Dialogue in Medical Imagery #
+# Vision-BioLLM: Large Vision Language Model for Visual Dialogue in Medical Imagery #
 
 <div align="center"><img src="https://github.com/user-attachments/assets/e59a3e10-9cd4-4562-a7a4-c66bab69bf3e" width="50%" /></div>
 ## Abstract ##

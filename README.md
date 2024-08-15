@@ -10,14 +10,14 @@
 - :wrench: Another significant contribution of this work lies also in upgrading three datasets by elevating existing visual question datasets to dialogue context and incorporating informative summaries that succinctly capture the essence of each dialogue.
 - :chart_with_upwards_trend:Experimental results demonstrate the capabilities of VMed-Llama3 compared to state-of-the-art methods, confirming its  potential to advance the field of medical visual dialogue.
 -----
-## News ##
-- [04-08-2024] Github is launched
+## :fire: News ##
+- [04-08-2024] Github is out!
 ---
 ## Contents ##
 
 ---
 ## Model ##
-![Picture2](https://github.com/user-attachments/assets/9b44b827-b94c-468d-9cea-844e7fbf8af3)
+![vioson-biollm-model](https://github.com/user-attachments/assets/788e9742-c15a-417b-bf6b-e2f679ba7606)
 
 To write a code use ```
 

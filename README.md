@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/e59a3e10-9cd4-4562-a7a4-c66bab69bf3e" width="50%" />
 </p>
 
-# Vision-BioLLM: Large Vision Language Model for Visual Dialogue in Medical Imagery #
+# Vision-BioLLM: Large Vision Language Model for Visual Dialogue in Biomedical Imagery #
 
 ## Abstract ##
 - :sparkles: In this paper, we introduce Vision-BioLLLM a large vision-language model specifically designed for visual dialogue in the biomedical domain.
@@ -22,11 +22,13 @@
 ## Model ##
 ![vioson-biollm-model](https://github.com/user-attachments/assets/788e9742-c15a-417b-bf6b-e2f679ba7606)
 
-To write a code use ```
-
-Example:
-```
-import torch
-import cv2
-```
+## Citation ##
+You can cite our work using this BibTeX:
+```bibtex
+@article{
+  title={Vision-BioLLM: Large Vision Language Model for Visual Dialogue in Biomedical Imagery},
+  author={Ahmad AlShibli, Yakoub bazi, Mohamad Al Rahhal, and Mansour Zuair},
+  journal={TBD},
+  year={2024}
+}
 

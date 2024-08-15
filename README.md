@@ -1,8 +1,8 @@
 # Vision-BioLLM@KSU #
 **Large Vision Language Model for Visual Dialogue in Medical Imagery**
-<img src="https://github.com/user-attachments/assets/e59a3e10-9cd4-4562-a7a4-c66bab69bf3e" width="50%" />
+<center><img src="https://github.com/user-attachments/assets/e59a3e10-9cd4-4562-a7a4-c66bab69bf3e" width="50%" /></center>center>
 ## Abstract ##
-- :sparkles: In this project, we introduce VMed-Llama3, a vision-language model specifically designed for visual dialogue in the medical domain.
+- :sparkles: In this project, we introduce Vision-BioLLM, a vision-language model specifically designed for visual dialogue in the medical domain.
 - :jigsaw: This model employs an encoder-decoder architecture, with a vision-based transformer as the encoder and a cutting-edge NLP-based transformer, Llama3, as the decoder. We train VMed-Llama3 through a three-step process: alignment, instruction-tuning, and fine-tuning on diverse downstream tasks related to medical dialogue datasets.
 - :gear: During the alignment phase, we optimize a multi-layer perceptron (MLP) to synchronize the outputs of the vision encoder with the inputs of the language model decoder, ensuring seamless integration between the visual and textual components.
 - :link: In the instruction-tuning phase, we further enhance the language understanding of medical datasets by fine-tuning it using the low-rank adaptation (LoRA) method with a instructional medical dataset.

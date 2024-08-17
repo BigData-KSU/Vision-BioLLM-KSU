@@ -27,7 +27,7 @@ You can cite our work using this BibTeX:
 ```bibtex
 @article{
   title={Vision-BioLLM: Large Vision Language Model for Visual Dialogue in Biomedical Imagery},
-  author={Ahmad AlShibli, Yakoub bazi, Mohamad Al Rahhal, and Mansour Zuair},
+  author={Ahmad AlShibli, Yakoub Bazi, Mohamad Al Rahhal, and Mansour Zuair},
   journal={TBD},
   year={2024}
 }

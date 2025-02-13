@@ -25,10 +25,14 @@
 ## Citation ##
 You can cite our work using this BibTeX:
 ```bibtex
-@article{
+@article{AlShibli2024VisionBioLLM,
   title={Vision-BioLLM: Large Vision Language Model for Visual Dialogue in Biomedical Imagery},
-  author={Ahmad AlShibli, Yakoub Bazi, Mohamad Al Rahhal, and Mansour Zuair},
-  journal={TBD},
-  year={2024}
+  author={Ahmad AlShibli and Yakoub Bazi and Mohamad Mahmoud Al Rahhal and Mansour Zuair},
+  journal={Biomedical Signal Processing and Control},
+  volume={99},
+  pages={107437},
+  year={2024},
+  publisher={Elsevier},
+  doi={10.1016/j.bspc.2024.107437}
 }
 
